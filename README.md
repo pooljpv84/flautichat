@@ -1,8 +1,8 @@
 # Sala de chat y video chat con Node.js
 #### El aplicativo consta de 2 partes escenciales:
-##### Una sala de chat textual y una sala de video-chat.
+##### Una sala de chat (textual) y una sala de video chat.
 
-Sala de Chat usando sockets.io autor: Paul Velasco.
+* Sala de Chat usando sockets.io autor: Paul Velasco.
 
 Video chat usando peerJS [ejemplo del código del video chat](http://ourcodeworld.com/articles/read/496/how-to-create-a-videochat-with-webrtc-using-peerjs-and-node-js) citando al autor: Carlos Delgado.
 
