@@ -4,7 +4,7 @@
 
 * Sala de Chat usando sockets.io autor: Paul Velasco.
 
-Video chat usando peerJS [ejemplo del código del video chat](http://ourcodeworld.com/articles/read/496/how-to-create-a-videochat-with-webrtc-using-peerjs-and-node-js) citando al autor: Carlos Delgado.
+* Video chat usando peerJS [ejemplo del código del video chat](http://ourcodeworld.com/articles/read/496/how-to-create-a-videochat-with-webrtc-using-peerjs-and-node-js) citando al autor: Carlos Delgado.
 
 # Instalación de la sala de chat:
 
@@ -52,10 +52,10 @@ node website-server.js
 ```batch
 node node peer-server.js
 ```
-Abrir su navegador y probar la funcionalidad del aplicativo :D ...!
+Abrir su navegador y probar la funcionalidad del aplicativo :D
 
 # Importante:
 
-No olvidar que se debe cambiar la dirección del host en la línea 16 de `FLAUTI CHAT/videochat-peerjs-example-master/public/source/js/script.js` acuerdo con tu dirección IP.
+No olvidar que se debe cambiar la dirección del host en la línea 16 de `FLAUTI CHAT/videochat-peerjs-example-master/public/source/js/script.js` de acuerdo con su dirección IP.
 
-Tambien se debe cambiar la dirección del host en la línea 256 de `FLAUTI CHAT\index.html` de acuerdo con tu dirección IP.
+Tambien se debe cambiar la dirección del host en la línea 256 de `FLAUTI CHAT\index.html` de acuerdo con su dirección IP.
